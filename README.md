@@ -11,8 +11,8 @@ M5Stack Core Development kit BASIC
 
 ### SAMPLE
 
-![](https://raw.githubusercontent.com/NNNIC/psgg-cpp-sample/master/wiki/and.png)
-![](https://raw.githubusercontent.com/NNNIC/psgg-cpp-sample/master/wiki/folder.png)
-![](https://raw.githubusercontent.com/NNNIC/psgg-cpp-sample/master/wiki/state.png)
-![](https://raw.githubusercontent.com/NNNIC/psgg-cpp-sample/master/wiki/out.png)
+![](https://raw.githubusercontent.com/NNNIC/psgg-ino-sample/master/wiki/and.png)
+![](https://raw.githubusercontent.com/NNNIC/psgg-ino-sample/master/wiki/folder.png)
+![](https://raw.githubusercontent.com/NNNIC/psgg-ino-sample/master/wiki/state.png)
+![](https://raw.githubusercontent.com/NNNIC/psgg-ino-sample/master/wiki/out.png)
 
