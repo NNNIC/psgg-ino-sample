@@ -1,31 +1,13 @@
-# psgg-cpp-sample
-StateGo C++ Sample
+# psgg-ino-sample
+StateGo Arduino / C++ Sample
 
 ## ENVIRONMENT
 
-Windows 7/8/10  
-GNU C  
-[StateGo](https://statego.programanic.com/index-e.html)
+Tested environment.
 
-## Playground
-
-### 1. Start StateGo
-
-If a state machine exists, please delete it useing "clean.bat".
-
-### 2. Select Create New State machine.
-
-### 3. Set TestControl as a state machine name.
-
-### 4. Set "plyaground/doc"  as DOC folder.
-
-### 5. Set "playground/src" as SRC folder.
-
-## Playground Files
-
-claen.bat - delete files that are related with SYN-G-GEN.  
-make.bat  - make exe  
-run.bat   - run sample  
+Windows 10  
+Arduino IDE 2.430
+M5Stack Core Development kit BASIC
 
 ### SAMPLE
 
